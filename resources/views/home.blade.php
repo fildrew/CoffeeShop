@@ -88,7 +88,7 @@
                 </div>
             </div>
 
-            <div class="book p-4">
+            <div class="book p-3">
                 <h3>PRENOTA UN TAVOLO</h3>
                 <form action="{{ route('booking.tables') }}" method="POST" class="appointment-form">
                     @csrf
@@ -216,9 +216,7 @@
             <h2 class="mb-4" style="color: #c49b63">Menù</h2>
             <p class="mb-4">Il Viaggio nei Sapori
                 Ogni dolce raccontava una storia diversa, un viaggio nei sapori e nelle tradizioni dell’Emilia.
-
                 Le crostate di frutta fresca, le ciambelle profumate e i dolci al cioccolato erano solo alcune delle delizie che arricchivano la tavola.
-
                 E mentre il sole sorgeva lentamente sulle colline, il dolce risveglio dell’Emilia regalava a tutti un momento di piacere e serenità, celebrando l’amore per la buona cucina e la convivialità.</p>
             <p><a href="#" class="btn btn-primary btn-outline-primary px-4 py-3">Sfoglia il Menù</a></p>
           </div>

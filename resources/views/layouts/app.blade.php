@@ -46,7 +46,7 @@
     <div id="app">
         <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
             <div class="container">
-                <a class="navbar-brand" href=""{{ url('/') }}> Café <small>Valsamoggia</small></a>
+                <a class="navbar-brand" href=""{{ url('/') }}> Caffé <small>Valsamoggia</small></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="oi oi-menu"></span> Menu
                 </button>
@@ -112,7 +112,8 @@
             <div class="col-lg-3 col-md-6 mb-5 mb-md-5">
                 <div class="ftco-footer-widget mb-4">
                 <h2 class="ftco-heading-2">About Us</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                <p>Storico bar del centro storico di Valsamoggia, rinomato per la specialità invernale: la cioccolata in tazza con panna. Un locale intimo, con una saletta interna a due piani, tipica dei locali di una volta, che invoglia a fermarsi. Dotato di una saletta superiore con aria condizionata e di tavolini sotto al portico su via
+                    Saragozza . Colazioni, pranzi ed aperitivi e tanto altro!</p>
                 <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                     <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                     <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>

@@ -101,7 +101,7 @@
                 <div class="desc pl-3">
                     <div class="d-flex text align-items-center">
                         <h3><span>{{ $dessert->name }}</span></h3>
-                        <span class="price"> €{{ $dessert->price }}</span>
+                        <span class="price">{{ $dessert->price }}</span>
                     </div>
                     <div class="d-block">
                         <p>{{ $dessert->description }}</p>
@@ -119,7 +119,7 @@
                 <div class="desc pl-3">
                     <div class="d-flex text align-items-center">
                         <h3><span>{{ $drink->name }}</span></h3>
-                        <span class="price"> €{{ $drink->price }}</span>
+                        <span class="price">{{ $drink->price }}</span>
                     </div>
                     <div class="d-block">
                         <p>{{ $drink->description }}</p>
